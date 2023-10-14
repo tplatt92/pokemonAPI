@@ -11,11 +11,10 @@ Introduction
 Welcome to the Pokedex App! This application is a user-friendly and interactive tool for exploring the vast world of Pokémon. With this app, users can access detailed information about various Pokémon species, all powered by the Pokémon API. The app utilizes JavaScript's Fetch API to retrieve and display Pokémon data, and it incorporates input functionality to enhance user experience. The app's sleek design is made possible by a Pokedex CSS template, creating an engaging and visually appealing interface for users to enjoy.
 
 Features
+
 Pokémon Data: Access a wide range of information about different Pokémon species, including their names, types, abilities, and more.
 Search Functionality: Use the search bar to quickly find specific Pokémon by their names or IDs, making navigation effortless.
 Interactive Design: Enjoy a visually appealing interface inspired by the classic Pokedex design, providing an immersive experience for users.
-Getting Started
-To run the Pokedex App locally, follow these steps:
 
 Technologies Used
 HTML: The structure of the web pages.
